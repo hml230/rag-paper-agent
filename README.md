@@ -22,7 +22,6 @@ This project is a papers query module that enables students to query recent Mach
 - [Installation](#installation)
 - [Example Usage](#example-usage)
 - [Project Structure](#project-structure)
-- [Status](#status)
 
 ## Overview
 
