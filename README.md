@@ -1,4 +1,4 @@
-# Research Assistant Vera
+# Personal Research Assistant Agent
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Docker](https://img.shields.io/badge/docker-enabled-blue.svg)
