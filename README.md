@@ -13,7 +13,7 @@
   <img src="images/app.jpg" alt="App Image">
 </p>
 
-**Vera** is a local Retrieval-Augmented Generation (RAG) agent designed for researchers and students to query recent Machine Learning and AI publications from sources like arXiv. It combines modern language models with vector-based document retrieval to generate context-aware responses.
+This project is a papers query module that enables students to query recent Machine Learning and AI publications from open sources like arXiv. It combines modern language models with vector-based document retrieval to generate context-aware responses.
 
 ## Table of Contents
 
