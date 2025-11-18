@@ -183,14 +183,6 @@ vera
 └── uv.lock
 ```
 
-### Completed
-
-- Core RAG pipeline implementation
-
-- Local storage and retrieval
-
-- CLI and browser chat interface
-
 ## Acknowledgments
 
 - Built with [LangGraph](https://langchain-ai.github.io/langgraph/concepts/why-langgraph/) and [LangChain](https://python.langchain.com/docs/introduction/) RAG documentations.
