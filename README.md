@@ -26,7 +26,7 @@
 
 ## Overview
 
-Vera is an agentic RAG system that:
+This project is an agentic RAG system that:
 
 - **Retrieves** relevant documents from a vector database based on user queries via similarity search
 
