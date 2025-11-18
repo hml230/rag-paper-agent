@@ -125,12 +125,6 @@ Simply input your query as display below, the agent will respond in lower chatbo
   <img src="images/usage.jpg" alt="Usage Image 1" width=1080>
 </p>
 
-Another exmaple,
-
-<p align="center">
-  <img src="images/usage01.jpg" alt="Usage Image 2" width=1080>
-</p>
-
 Logs and relevant messages will be displayed in the terminal during the conversation.
 
 To terminate the agent, input `Ctrl+C` in your terminal session.
@@ -190,8 +184,6 @@ vera
 └── uv.lock
 ```
 
-## Status
-
 ### Completed
 
 - Core RAG pipeline implementation
@@ -199,20 +191,6 @@ vera
 - Local storage and retrieval
 
 - CLI and browser chat interface
-
-- Docker support
-
-### Future Development
-
-- Deployable Flask API
-
-- Chat history and caching with LangGraph
-
-- Test and benchmarking suites
-
-- System evaluation metrics, agent monitoring components (drift, hallucinations, etc.)
-
-- More advanced retrieval strategies
 
 ## Acknowledgments
 
